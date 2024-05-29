@@ -1,4 +1,16 @@
-## Hi there 👋
+<p align="center"><a href="https://mx-pai.github.io"><img width="80%" alt="Hello, Xu Ma. I'm happy to see you!" src="./assets/readme.png" /></a></p>
+
+<br />
+
+I'm a Student form NJUPT
+
+**About me**
+
+- 💼 As a Student at [NJUPT](https://www.njupt.edu.cn)
+
+- ❤️ I love programing and reading
+
+- 💬 Ask me about anything [here](https://github.com/mx-pai/mx-pai/issues)
 
 <!--
 **mx-pai/mx-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
