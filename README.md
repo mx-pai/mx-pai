@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mx-pai.github.io"><img width="80%" alt="Hello, Xu Ma. I'm happy to see you!" src="./assets/readme.png" /></a></p>
+<p align="center"><a href="https://mx-pai.github.io"><img width="80%" alt="Hello, Xu Ma. I'm happy to see you!" src="./image/readme.png" /></a></p>
 
 <br />
 
