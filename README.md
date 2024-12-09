@@ -12,12 +12,12 @@ I'm a Student form NJUPT
 
 - 💬 Ask me about anything [here](https://github.com/mx-pai/mx-pai/issues)
 
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 <!--
 **mx-pai/mx-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
