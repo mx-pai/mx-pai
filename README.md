@@ -17,6 +17,8 @@ I'm a Student form NJUPT
 
 Here are some ideas to get you started:
 
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,8 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
 
 [![wakatime](https://wakatime.com/badge/user/77751cf7-3fb2-4a57-a483-85edc9d39f7a.svg)](https://wakatime.com/@77751cf7-3fb2-4a57-a483-85edc9d39f7a)
