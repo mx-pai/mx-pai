@@ -17,6 +17,13 @@ I'm a Student form NJUPT
 <!--
 **mx-pai/mx-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mx-pai/mx-pai/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mx-pai/mx-pai/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mx-pai/mx-pai/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
